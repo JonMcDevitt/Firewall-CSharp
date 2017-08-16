@@ -28,6 +28,7 @@ fabric.properties
 
 # .NET Stuff
 *.sln*
+*.csproj*
 **/Properties/
 **/bin/
 **/obj/
