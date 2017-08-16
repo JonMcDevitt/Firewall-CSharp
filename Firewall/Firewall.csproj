@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Firewall.cs" />
+    <Compile Include="FirewallInterface.cs" />
     <Compile Include="Lists\AccessControlList.cs" />
     <Compile Include="Lists\InterfaceList.cs" />
     <Compile Include="Nodes\ACNode.cs" />
